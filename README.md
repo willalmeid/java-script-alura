@@ -8,12 +8,12 @@
 
 <p> O curso oferece os seguintes projetos: </p>
 
--   <a href="https://github.com/javascript-curso-alura/tree/main/alugames/">AluGames</a>
--   <a href="https://github.com/javascript-curso-alura/tree/main/amigo-secreto">Amigo Secreto</a>
--   <a href="https://github.com/javascript-curso-alura/tree/main/carrinho-de-compras">Carrinho de Compras</a>
--   <a href="https://github.com/javascript-curso-alura/tree/main/ingresso">Ingresso</a>
--   <a href="https://github.com/javascript-curso-alura/tree/main/numero-secreto">Número Secreto</a>
--   <a href="https://github.com/javascript-curso-alura/tree/main/sorteador-de-numeros">Sorteador de Números</a>
+-   <a href="https://willalmeid.github.io/java-script-alura/alugames/">AluGames</a>
+-   <a href="https://willalmeid.github.io/java-script-alura/amigo-secreto">Amigo Secreto</a>
+-   <a href="https://willalmeid.github.io/java-script-alura/carrinho-de-compras">Carrinho de Compras</a>
+-   <a href="https://willalmeid.github.io/java-script-alura/ingresso">Ingresso</a>
+-   <a href="https://willalmeid.github.io/java-script-alura/numero-secreto">Número Secreto</a>
+-   <a href="https://willalmeid.github.io/java-script-alura/sorteador-de-numeros">Sorteador de Números</a>
 
 <h2> 🤖 Tecnologias </h2>
 
